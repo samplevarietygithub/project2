@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 6A64-9A68
-
- Directory of C:\Users\lijoj\Desktop\Example
-
-24-11-2022  10:20    <DIR>          .
-24-11-2022  09:49    <DIR>          ..
-24-11-2022  10:20                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  137,284,149,248 bytes free
+test1.txt
